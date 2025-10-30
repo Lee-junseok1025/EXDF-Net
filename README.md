@@ -1,5 +1,6 @@
 # EXDF-Net
-Time series forecasting
+Embedding-token and eXponential Dual Flow Net(EXDF-Net) for Time series forecasting
+
 Model Architecture
 ![sac](figure/EXDF-Net.png)
 
