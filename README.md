@@ -5,8 +5,10 @@ Model Architecture
 
 Long-term Forecasting with Unified Experimental Settings (Multivariate)
 
-
 ![sac](figure/ex_results_1.png)
 
 ![sac](figure/ex_results_2.png)
 
+Fixed Look-back window size (L=96)
+
+![sac](figure/ex_results_3.png)
